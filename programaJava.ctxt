@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=programaJava
+comment1.params=
+comment1.target=programaJava()
+comment2.params=
+comment2.target=void\ optenerDupla()
+comment3.params=nuevaDuplaUno
+comment3.target=void\ cambioDuplaUno(int)
+comment4.params=nuevaDuplaDos
+comment4.target=void\ cambioDuplaDos(int)
+comment5.params=
+comment5.target=void\ leer()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
